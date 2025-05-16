@@ -1,4 +1,5 @@
 # monitoramento-ambiente-arduino
+LINK PARA PROJETO-->https://www.tinkercad.com/things/7kD6szAevbl-monitoramento-ambiente-arduino
 Descrição:
 Este projeto busca monitorar a temperatura, umidade e luminosidade de um ambiente usando sensores conectados ao Arduino. O sistema exibe os dados em um display LCD e ativa LEDs e buzzer conforme condições críticas de ambiente, com alertas visuais e sonoros.
 Funcionamento:
